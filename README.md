@@ -1,6 +1,7 @@
 # Time Domain Modal Estimation
 
 [![Tests](https://github.com/daleas0120/time_domain_modal_estimation/actions/workflows/tests.yml/badge.svg)](https://github.com/daleas0120/time_domain_modal_estimation/actions/workflows/tests.yml)
+[![Documentation](https://github.com/daleas0120/time_domain_modal_estimation/actions/workflows/docs.yml/badge.svg)](https://daleas0120.github.io/time_domain_modal_estimation/)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Is Vibe Coded](https://img.shields.io/badge/is-vibe--coded-purple.svg)](https://github.com/danielrosehill/Is-Vibe-Coded)
