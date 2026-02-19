@@ -4,8 +4,8 @@ type: software
 title: "Time Domain Modal Estimation"
 abstract: "A Python package for extracting modal parameters from time-domain response data using the Complex Exponential Algorithm (CEA) and Eigensystem Realization Algorithm (ERA)."
 authors:
-  - family-names: "Ales"
-    given-names: "Ashley"
+  - family-names: "Dale"
+    given-names: "Ashley S."
 repository-code: "https://github.com/daleas0120/time_domain_modal_estimation"
 license: MIT
 keywords:
