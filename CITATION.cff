@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Time Domain Modal Estimation"
+abstract: "A Python package for extracting modal parameters from time-domain response data using the Complex Exponential Algorithm (CEA) and Eigensystem Realization Algorithm (ERA)."
+authors:
+  - family-names: "Ales"
+    given-names: "Ashley"
+repository-code: "https://github.com/daleas0120/time_domain_modal_estimation"
+license: MIT
+keywords:
+  - modal analysis
+  - vibration
+  - signal processing
+  - structural dynamics
+  - complex exponential algorithm
+  - eigensystem realization algorithm
+version: 0.1.0
+date-released: 2026-02-18
+references:
+  - type: article
+    authors:
+      - family-names: "Fahey"
+        given-names: "S."
+      - family-names: "Pratt"
+        given-names: "J."
+    title: "Complex exponential algorithm for modal parameter estimation"
+    year: 1998
+  - type: conference-paper
+    authors:
+      - family-names: "Juang"
+        given-names: "J.-N."
+      - family-names: "Pappa"
+        given-names: "R. S."
+    title: "An eigensystem realization algorithm for modal parameter identification and model reduction"
+    year: 1985
+    collection-title: "Journal of Guidance, Control, and Dynamics"
+    volume: 8
+    issue: 5
+    start: 620
+    end: 627
