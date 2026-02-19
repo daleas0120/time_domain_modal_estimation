@@ -439,6 +439,13 @@ CEA Demonstration
 
 This generates a comprehensive demonstration with visualization saved as ``cea_results.png``.
 
+.. figure:: _static/cea_results.png
+   :alt: CEA Results Visualization
+   :align: center
+   :width: 100%
+
+   **CEA demonstration results**: The figure shows (top) the original response and CEA reconstruction, (middle) the identified poles in the complex plane, and (bottom) the reconstruction error over time. The demonstration uses the function f(x) = exp{-1E-3*x/2}*cos(2*pi/50*x) over 5000 seconds.
+
 ERA Demonstration
 ~~~~~~~~~~~~~~~~~
 
@@ -447,3 +454,10 @@ ERA Demonstration
    python examples/demo_era.py
 
 This generates a comprehensive ERA demonstration with visualization saved as ``era_results.png``.
+
+.. figure:: _static/era_results.png
+   :alt: ERA Results Visualization
+   :align: center
+   :width: 100%
+
+   **ERA demonstration results**: The figure shows (top) the original impulse response and ERA reconstruction, (middle) the identified poles in the complex plane, and (bottom) the reconstruction error over time. The demonstration uses the function f(x) = exp{-1E-3*x/2}*cos(2*pi/50*x) over 5000 seconds.
