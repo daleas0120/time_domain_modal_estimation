@@ -439,7 +439,7 @@ CEA Demonstration
 
 This generates a comprehensive demonstration with visualization saved as ``cea_results.png``.
 
-.. figure:: _static/cea_results.png
+.. figure:: images/cea_results.png
    :alt: CEA Results Visualization
    :align: center
    :width: 100%
@@ -455,7 +455,7 @@ ERA Demonstration
 
 This generates a comprehensive ERA demonstration with visualization saved as ``era_results.png``.
 
-.. figure:: _static/era_results.png
+.. figure:: images/era_results.png
    :alt: ERA Results Visualization
    :align: center
    :width: 100%
